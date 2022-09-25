@@ -13,4 +13,5 @@ def howMany():
         
 
 howMany()
+set(word_dict)
 print(word_dict)
